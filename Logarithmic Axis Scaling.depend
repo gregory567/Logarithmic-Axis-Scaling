@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711641262 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\logarithmic axis scaling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
